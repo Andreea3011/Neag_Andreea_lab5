@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace Neag_Andreea_lab5
+namespace Neag_Andreea_Lab5
 {
     /// <summary>
     /// Interaction logic for App.xaml
