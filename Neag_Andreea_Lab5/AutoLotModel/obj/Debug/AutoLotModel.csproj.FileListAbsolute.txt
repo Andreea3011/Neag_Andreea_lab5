@@ -1,0 +1,11 @@
+D:\Medii de programare\Neag_Andreea_Lab5\AutoLotModel\bin\Debug\AutoLotModel.dll.config
+D:\Medii de programare\Neag_Andreea_Lab5\AutoLotModel\bin\Debug\AutoLotModel.dll
+D:\Medii de programare\Neag_Andreea_Lab5\AutoLotModel\bin\Debug\AutoLotModel.pdb
+D:\Medii de programare\Neag_Andreea_Lab5\AutoLotModel\bin\Debug\EntityFramework.dll
+D:\Medii de programare\Neag_Andreea_Lab5\AutoLotModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\Medii de programare\Neag_Andreea_Lab5\AutoLotModel\bin\Debug\EntityFramework.xml
+D:\Medii de programare\Neag_Andreea_Lab5\AutoLotModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\Medii de programare\Neag_Andreea_Lab5\AutoLotModel\obj\Debug\AutoLotModel.csproj.CoreCompileInputs.cache
+D:\Medii de programare\Neag_Andreea_Lab5\AutoLotModel\obj\Debug\AutoLotModel.dll
+D:\Medii de programare\Neag_Andreea_Lab5\AutoLotModel\obj\Debug\AutoLotModel.pdb
+D:\Medii de programare\Neag_Andreea_Lab5\AutoLotModel\obj\Debug\AutoLotModel.csproj.AssemblyReference.cache

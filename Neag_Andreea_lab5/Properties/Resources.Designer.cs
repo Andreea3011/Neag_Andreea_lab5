@@ -9,7 +9,7 @@
 //------------------------------------------------------------------------------
 
 
-namespace Neag_Andreea_lab5.Properties
+namespace Neag_Andreea_Lab5.Properties
 {
     /// <summary>
     ///   A strongly-typed resource class, for looking up localized strings, etc.
@@ -43,7 +43,7 @@ namespace Neag_Andreea_lab5.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Neag_Andreea_lab5.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Neag_Andreea_Lab5.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
